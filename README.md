@@ -1,2 +1,2 @@
-# tretris-opengl
+# tetris-opengl
 Tetris game implemented using opengl for university project.
